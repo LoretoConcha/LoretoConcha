@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Loreto Concha</h1>
-<h3 align="center">A fullstack software developer from Chile</h3>
+<h3 align="center">A fullstack software developer</h3>
 
 - 👯 I’m looking to collaborate on **AI automatization**
 
